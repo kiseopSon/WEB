@@ -382,7 +382,7 @@ p {
 }
 
 .background-2 {
-	background-image: url("../img/photo-4.jpg");
+	background-image: url("../img/photo-4.gif");
 }
 
 .split-image-right {
@@ -493,7 +493,7 @@ p {
 }
 
 .form-control {
-	padding: 1.5rem 16rem 1.5rem 0.75rem
+	padding: 1.5rem 10rem 1.5rem 0.75rem
 }
 
 .contact-form .btn {
