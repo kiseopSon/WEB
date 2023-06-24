@@ -20,9 +20,14 @@ body {
 	background-color: #e9e8e6;
 }
 
+tr {
+	text-align: center;
+}
+
 .btn {
 	border-radius: 0;
 }
+
 
 a:link,
 a:hover,
